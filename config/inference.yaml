@@ -1,0 +1,10 @@
+# Inference configuration
+inference:
+  gpu_id: 0
+  batch_size: 128
+  top_k: 5
+
+# Dataset configuration
+dataset:
+  name: "MPReID"
+  num_workers: 8

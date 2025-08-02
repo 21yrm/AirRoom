@@ -1,0 +1,2 @@
+from third_party.SemanticSAM.semantic_sam.architectures.interactive_mask_dino import *
+from third_party.SemanticSAM.semantic_sam.architectures.build import build_model

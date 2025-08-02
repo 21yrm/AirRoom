@@ -1,0 +1,19 @@
+# .vscode
+.vscode/
+
+# datasets
+datasets/
+
+# cache files
+__pycache__
+
+# output
+results/*
+!results/.gitkeep
+
+# weights
+cache/huggingface/*
+!cache/huggingface/.gitkeep
+cache/torchhub/*
+!cache/torchhub/.gitkeep
+third_party/CVNet/CVPR2022_CVNet_R50.pyth

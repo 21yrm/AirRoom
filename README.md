@@ -16,7 +16,7 @@ The code has been tested on:
 
 ## Setup
 
-1. **Clone the repository and its submodules**
+1. **Clone the repository**
 
     ```
     git clone https://github.com/21yrm/AirRoom.git
